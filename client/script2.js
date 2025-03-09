@@ -141,10 +141,6 @@ async function handleFormSubmit(event) {
         },
         body: JSON.stringify(plainFormData),
       });
-      const newUser = await response.json(); // Haetaan vastaus palvelimelta
-
-      // Lisätään uusi rivi taulukkoon ilman koko taulukon päivitystä
-      addTableRow(newUser);
     }
     // Tyhjennetään lomake syötön jälkeen
     form.reset();

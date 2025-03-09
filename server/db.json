@@ -16,14 +16,19 @@
       "puhelin": "05099884"
     },
     {
-      "id": "1741538287837",
-      "nimi": "pekka",
-      "puhelin": "123"
+      "id": "1741541097754",
+      "nimi": "iinesankka",
+      "puhelin": "888"
     },
     {
-      "id": "1741538899324",
-      "nimi": "iinesankka",
+      "id": "1741541211953",
+      "nimi": "salla",
       "puhelin": "123123"
+    },
+    {
+      "id": "1741541216349",
+      "nimi": "iinesankka",
+      "puhelin": "040"
     }
   ]
 }
